@@ -14,3 +14,4 @@ if b >=12:
   print(f'sua compra foi na promoção, o valor foi {c}')
 else:
     print(f'sua compra foi pelo preço normal de 1.30 cada, sua compra deu ='  , b*1.30)
+    #
